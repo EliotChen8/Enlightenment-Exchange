@@ -1,6 +1,7 @@
 # Enlightenment-Exchange
 
 > **Enlightenment-Exchange** is an open-source knowledge sharing initiative
+> <br>
 > Aiming at fostering collaborative learning
 
 **Project Structure:**
